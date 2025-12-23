@@ -1,0 +1,19 @@
+============================================================
+LANGUAGE DISTRIBUTION REPORT
+============================================================
+
+Total texts analyzed: 135,570
+Number of clusters: 14
+
+Language Distribution:
+----------------------------------------
+Punjabi                  :   17,231 texts ( 12.7%)
+Odia                     :   15,457 texts ( 11.4%)
+Urdu                     :   13,624 texts ( 10.0%)
+Hindi/Telugu             :   10,586 texts (  7.8%)
+English                  :    9,133 texts (  6.7%)
+Bengali                  :    8,709 texts (  6.4%)
+Tamil/Hindi              :    6,728 texts (  5.0%)
+Hindi                    :      912 texts (  0.7%)
+Small Cluster 7          :        3 texts (  0.0%)
+Small Cluster 1          :        2 texts (  0.0%)
