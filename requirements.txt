@@ -1,0 +1,18 @@
+# Data Manipulation & Math
+numpy
+pandas
+scipy
+
+# Machine Learning & Clustering
+scikit-learn
+umap-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Web Application
+streamlit
+
+# Utilities
+pickle-mixin
